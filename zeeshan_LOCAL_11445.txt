@@ -1,9 +1,2 @@
 Hi, I am Zeeshan. I live in the great lone star state of Texas. 
-<<<<<<< HEAD
 Dallas is the prettiest city in Texas.
-=======
-
-
-Some more changes.
-Yet more changes. 
->>>>>>> slave
